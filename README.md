@@ -1,19 +1,2 @@
-# test
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h1>Organization Chart</h1>
+D3 Chart를 통해서 구현한 조직도입니다.
